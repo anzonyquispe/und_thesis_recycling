@@ -1,0 +1,74 @@
+threatens amenaza
+stated-led planning controls controles planificados por el estado
+worrisome issue
+seldom
+
+notwithstanding
+abyssal
+
+Bogotá’s functional chain of recycling has seven segments: (1) generation, (2)  retrieval, (3) collection and transport, 4) storage, (5) pre-transformation,
+(6) transformation and (7) reuse (Corredor, 2010).
+
+explained variable
+the management and use of waste and its components 
+1 food or organic waste
+1 paper and cardboard
+glass metal and plastic
+
+explanatory variables
+ownership
+family size
+years of living there 3, 5, more
+service of internet
+membership ina environemntal organization
+improvements of environment
+considering himself poverty
+dummies of year of schooling of head of household
+age
+male
+married
+income percapita
+income sections
+
+
+
+six blocs of explanatory variables 
+-data on housing condiions
+-use of informaion technology
+-isues of participation in organizations
+-head of hosehold's perception on both their living conditions and the institutional performance of local public entities
+-socio-demographic charactersitics and education
+-income
+
+
+the inclusion of SEC help us to understand the heterogeneity of households in relation to such decisions
+
+lowest SEC higher education has a positive and signiicant effect.
+in secs 5 and 6, highes level of education has a negative sign
+
+
+
+income positive and significant
+acceso ainternet en todas los SEC + *
+only highest levels of education oh the head of household +*
+in highest levelf of SEC we see a negative impact -*
+
+education is important beacause it increases environment awareness
+elders and adults are +*
+the older the head of household, th ehigher their pro-environmental behavior
+-male -*
+-air quality, waste disposal,  streets cleaning concerns +*
+-organization +*
+-size *+
+-residence time +*
+-married*
+-income *+
+
+
+
+
+
+
+
+
+

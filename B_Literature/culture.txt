@@ -1,0 +1,46 @@
+wheter individuals who are more willing to behave according to civic norms that constrain free riding are also more willing to protect the public good of the natural environment.it varies according to willingness to rotect the environment vary with a country’s environmental quality and level of economic development.
+
+So there are thow carachteristics that influenced recycling behavior: environment quality and level of economic development. Furthermore, level of civic cooperation is also important.
+
+People who are exposed to inustrialized economics are more prone to participate in environmental decision-making.
+
+Demand for environmental quality and can have methodological implications for environmental valuation research
+
+If civic cooperation explains heterogeneity in environmental preferences and stated willingness to pay. this variable should be consider in future demand evaluations 
+
+Social capital as a resource that explains pro environmental behavior.
+previous studies focus on the impact of social connections and trut on economic efficiency. this paper investigate civic cooperation in pro environmental behavior.
+
+An aggregate index of civic norms it depend on country characteristics: per capita gdp (Kuznets curve)
+they interpret behacioral intentios to pay to protect the environment as measures of marginal willingness
+
+civic cooperation, attitudes, and stated willingness to protect the natural environment
+
+attitudes as a function of individual and country characteristics (civic and demographics (age, gender, political activism, dummy variables for education levels, the relative place in the income distribution))
+country (level of development (log of gdp percapita, emissions of organic water pollutant nomalized by gdp per capita))
+
+second equation 
+y = intention to protect the environment 
+probit random effects
+
+willingess to provide environmental protection if he consider envrionment protection is more important than economic growth. they can sacrifice money of others
+
+willingness to pay to protect environment protection
+i agree to an increase in taxes if the extra money will contribute to prevent environmental pollution
+I would give part of my income if I were certain that the money would be used to prevent environmental pollution.
+those are the two ways to provide information about environment protection. the second option avoids free ridding problems
+
+vars
+tax, protection, civic index, participa en organismos por ambie, niveles de confianza en el movimiento ambiental, educacion en la misma forma que nosotros, income igual
+i) b Reclamar beneficios del gobierno a los que no tiene derecho; Q (ii) bEvitar una tarifa en el transporte público; Q (iii) b Hacer trampa en los impuestos si tiene una oportunidad; Q y (iv) b Alguien que acepta un soborno en el curso de sus deberes
+niveles de 0 al 4 de civic cooperation
+measure of civic cooperation
+
+pólitical activis (i) signed
+a petition, (ii) joined in boycotts, (iii) attended lawful demonstrations, (iv) joined unofficial strikes, and (v) occupied buildings or factories.
+
+income sin relevancia, educación relevante y psoitivo, civic positivo y significante, gdp positivo, trust in environemtn movement, membership and bvolunteering in environmental groups
+
+the lower environmental quality, the greater  pro-environmental attitude
+gdp is insignificance
+in good environment quality contexts, there is no probability of pro environmental attitudes and behavioral intentions.

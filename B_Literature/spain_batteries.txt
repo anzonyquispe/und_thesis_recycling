@@ -1,0 +1,53 @@
+maximise the separate collection of waste batteries
+th information campaigns should be designed on the basis of specific and individual information
+recycling campings should take into consideration the local conditions and cultural, situational or demographic factors of the households addressed.
+this behavior is influenced by socio-economic variables, degree of environmental concern, level of knowledge about environmental recycling issues and social norms
+
+Education, income, age, gender, household characteristics, environmental concerns, origin of individuals, norms, show social desirable behavior.
+
+positive education's impact (Hadjimanolis, 2013; Czajkowski et al., 2014; Yin et al., 2014) No significant(Sidique et al., 2010; Rioux, 2011; Wang et al., 2011; Pearson et al., 2012). 
+
+Several authors report a significant and positive correlation  between age and recycling behavior (Hage et al., 2009; Sidique et  al., 2010; Hadjimanolis, 2013; Keramitsoglou and Tsagarakis, 2013). no significant Czajkowski et al., 2014). F
+
+
+
+e. Most studies found that income and recycling have a significant correlation (Nnorom et al., 2009; Gellynck et al., 2011; Hadjimanolis, 2013; Czajkowski et al., 2014; Zen et al., 2014; Babaei et al., 2015), whilst some few works have reported no correlation (Hansmann et al., 2006; Hage et al., 2009; Rioux, 2011; Pearson et al., 2012). However, this correlation is ambiguous.  Several works indicate that households with higher income recycle more than households with lower incomes (Nnorom et al., 2009; Czajkowski et al., 2014; Zen et al., 2014). In contrast, other works show that households with higher income not necessarily have a rate of recycling higher than other households (Hage and  Söderholm, 2008; Gellynck et al., 2011). Regarding gender, some studies consider that this variable has not a relevant influence on recycling behavior (Hansmann et al., 2006; Hage et al., 2009; Sidique et al., 2010). Nevertheless, several works have found evidence that women are more likely to recycle than men (Chung and Poon, 1996; Pearson et al., 2012; Hadjimanolis, 2013; Babaei et al., 2015). Among household characteristics included in previous research, we can note, household size (Tadesse, 2009; Wan et al., 2014), marital status (Sidique et al., 2010; Pearson et al., 2012), or the type of house (Hage et al., 2009; Sidique et al., 2010; Zen et al., 2014), among others 
+
+
+the origin of the individuals have become more common (Hage et al., 2009; Pearson et al., 2012; Zen et al., 2014). The relationship with the economic activity is also analyzed recently in some works (Omran et al., 2009; Babaei et al., 2015; Nguyen et al., 2015).
+
+. It is well documented that environmental concern affects recycling behavior positively (Hornik et al., 1995; Hage and Söderholm, 2008; Hage et al., 2009; Nnorom et al., 2009; Refsgaard and Magnussen, 2009; Tadesse, 2009; Best and Kneip, 2011). no significant relationship or a very weak relationship between this variable and recycling behavior (Barr et al., 2001; Tonglet et al., 2004; Wang et al., 2011).
+
+recycling behavior of households and their knowledge about specific recycling issues (Hansmann et al., 2006; Sidique et al., 2010;
+Hadjimanolis, 2013; Keramitsoglou and Tsagarakis, 2013; Nguyen
+et al., 2015).
+
+In this context, several works conclude that person’s interest to show a social desirable behavior (i.e. a pro-environmental behavior) is positively linked to recycling behavior (Hornik et al., 1995; Chu and Chiu, 2003; Sidique et al., 2010; Rioux, 2011; Videras et al., 2012; Czajkowski et al., 2014; Wan et al., 2014; Zen et al., 2014; Nguyen et al., 2015). In contrast, some few studies report that social norms have not relevant influence on  recycling (Chan, 1998; Knussen et al., 2004; Hage et al., 2009).
+
+New documents take into account specific waste materials and how factors affect their behavior. it is useful in designing the most effective educational and information campaings
+
+what factoes influence the decision to deposit used batteries into collection points?
+Which factors are the most influential in decision?
+
+to measure environmental awareness of individuals
+• Are you concerned about the environment?
+• Have you detected any environmental problem in your surroundings  during the previous year?
+• Have youhad knowledge of any environmental protectionawareness campaign in the last year?
+
+tipo de hogar: con hijos, solteros, ...
+ingreso: dividido en 3, altos, medios, bajos
+educación: highest educational level completed by the respondent: basic (primary educ), medium (secondary educa), high (university educ)
+realtionship to economy (student, unemployed, employed, retired)
+city size: large (>100 000), medium (20 000 - 100 000), small (<20 000)
+knowledge of any environmental awareness campaign 
+detection of environmental problems
+
+concern of environmental could be exogenous
+
+probit con variable instrumental environmental concerns 
+
+positive
+environmental concern, couple child, high income, spain_birth, employ student* retires, cantidad de habitantes, age, knowledge about environmental campaigns
+
+negative
+low income, basic education, age2, detection of environmental problem
